@@ -5,14 +5,14 @@ Este repositorio contiene las soluciones a los ejercicios del taller de programa
 Cada ejercicio tiene tres versiones, una con for, otra con while y otra con do while. A continuación se detalla la ubicación de cada uno de los ejercicios: 
 
 1. Suma de los dígitos de un número 
-- for: ejercicios/suma-digitos/for.c 
-- while: ejercicios/suma-digitos/while.c 
-- do while: ejercicios/suma-digitos/do_while.c 
+- for: 1.-while-sum-de-los-digitos-de-un-num.c https://github.com/camila-06R/doc/blob/9f26b8153350d4c55e5b6144dc7631fe8a1988d9/1.-while-sum-de-los-digitos-de-un-num.c
+- while: 1.-while-sum-de-los-digitos-de-un-num.c https://github.com/camila-06R/doc/blob/9f26b8153350d4c55e5b6144dc7631fe8a1988d9/1.-while-sum-de-los-digitos-de-un-num.c
+- do while:   1.do-while-sum-digitos-de-un-n.c https://github.com/camila-06R/doc/blob/9f26b8153350d4c55e5b6144dc7631fe8a1988d9/1.do-while-sum-digitos-de-un-n.c 
 
 2. Inverso de un número 
-- for: ejercicios/inverso-numero/for.c 
-- while: ejercicios/inverso-numero/while.c 
-- do while: ejercicios/inverso-numero/do_while.c 
+- for: 
+- while: 1.-while-sum-de-los-digitos-de-un-num.c https://github.com/camila-06R/doc/blob/9f26b8153350d4c55e5b6144dc7631fe8a1988d9/1.-while-sum-de-los-digitos-de-un-num.c 
+- do while: 
 
 3. Potencia mediante sumas sucesivas 
 - for: ejercicios/potencia-numero/for.c 
